@@ -5,7 +5,7 @@ Simple Demo Application is a login page to practice with automated testing on lo
 Use login ``sda`` and password ``test`` you get into a welcome page.
 Any other parameters will bring an error page
 
-.. figure:: demoapp.png
+![Screenshot](demoapp.png)
 
 Setup
 =====
